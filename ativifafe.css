@@ -1,0 +1,38 @@
+/* Fundo da página */
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+}
+
+/* Título principal */
+h1 {
+    text-align: center;
+    color: rgb(72, 72, 189);
+    margin: 20px 0;
+}
+
+/* Subtítulos */
+h2 {
+    color: rgb(139, 0, 120);
+    margin-top: 20px;
+}
+
+/* Classe para centralizar títulos de seção */
+.titulo {
+    text-align: center;
+}
+
+/* Textoss */
+h3 {
+    color: #373737;
+    margin: 10px 0;
+}
+
+/* Imagens */
+img {
+    border: 3px solid #555;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    width: 300px;
+}
